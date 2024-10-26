@@ -1,7 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No 6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
-
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -46,9 +45,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## Support Removal Process
+![Screenshot 2024-10-26 110205](https://github.com/user-attachments/assets/3757579c-c908-4075-a19d-000ccdebba99)
+## UV Curing 
+![Screenshot 2024-10-26 110229](https://github.com/user-attachments/assets/c0b405c9-f2ff-4ed8-870e-b4aa41c8730f)
+## Heat Treatment
+![Screenshot 2024-10-26 110309](https://github.com/user-attachments/assets/6ed09e19-bb14-45a6-a5b8-f33a438275ae)
 
-### Name:
-### Register Number:
+
+### Name: Bharath Raj P
+### Register Number: 212223230031
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
